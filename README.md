@@ -1,2 +1,2 @@
 # price-prediction
-second hand cars price pediction
+second hand cars price prediction
